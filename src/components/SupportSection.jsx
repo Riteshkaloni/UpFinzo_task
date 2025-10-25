@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Import your images here
-import optimizeImg from '../assets/bank card.png';
+import optimizeImg from '../assets/bankCard.png';
 import fasterProcessImg from '../assets/Video(1).png';
 import flexibleSolutionImg from '../assets/Video(2).png';
 import integrationImg from '../assets/Video(4).png';

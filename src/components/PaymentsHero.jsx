@@ -1,15 +1,15 @@
 import React from "react";
 
 // Tab Icons
-import payIcon from "../assets/Icon (3).png";
+import payIcon from "../assets/Icon(3).png";
 import payoutIcon from "../assets/Icon.png";
-import payrollIcon from "../assets/Icon (1).png";
-import aiIcon from "../assets/Icon (2).png";
+import payrollIcon from "../assets/Icon(1).png";
+import aiIcon from "../assets/Icon(2).png";
 
 // Feature Icons
-import lightningIcon from "../assets/Vector 4.png";
-import secureIcon from "../assets/Vector 5.png";
-import networkIcon from "../assets/Vector 6.png";
+import lightningIcon from "../assets/Vector4.png";
+import secureIcon from "../assets/Vector5.png";
+import networkIcon from "../assets/Vector6.png";
 
 // Hero Image
 import heroImg from "../assets/123.png";

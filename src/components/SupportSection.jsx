@@ -2,9 +2,9 @@ import React from 'react';
 
 // Import your images here
 import optimizeImg from '../assets/bank card.png';
-import fasterProcessImg from '../assets/Video (1).png';
-import flexibleSolutionImg from '../assets/Video (2).png';
-import integrationImg from '../assets/Video (4).png';
+import fasterProcessImg from '../assets/Video(1).png';
+import flexibleSolutionImg from '../assets/Video(2).png';
+import integrationImg from '../assets/Video(4).png';
 import bgImage from '../assets/Background.png'; // Background image
 
 export default function ReasonsToPartner() {

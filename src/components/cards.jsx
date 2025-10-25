@@ -1,8 +1,8 @@
 import React from "react";
-import upiIcon from "../assets/Frame 1.png";
-import apiIcon from "../assets/Frame 2.png";
-import payoutsIcon from "../assets/Frame 3.png";
-import bulkIcon from "../assets/Frame 4.png";
+import upiIcon from "../assets/Frame1.png";
+import apiIcon from "../assets/Frame2.png";
+import payoutsIcon from "../assets/Frame3.png";
+import bulkIcon from "../assets/Frame4.png";
 
 const cards = [
   {
